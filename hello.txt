@@ -1,0 +1,5 @@
+hello , littertortoise
+本文件 必须是 在工作目录 repository下 也是工作区 
+才能添加到 本地版本库 .git中
+添加后也只是在 暂存区 stage中 要commit后才能到 master这个分支中 
+stage+master叫版本库
