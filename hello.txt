@@ -3,3 +3,7 @@ hello , littertortoise
 才能添加到 本地版本库 .git中
 添加后也只是在 暂存区 stage中 要commit后才能到 master这个分支中 
 stage+master叫版本库
+
+版本浏览库 查看 添加到本地仓库的 文件
+
+修改本地仓库的 文件后需要重新 提交
